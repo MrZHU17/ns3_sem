@@ -125,7 +125,7 @@
     <span class="c1"># Now it&#39;s time to expand the functions.</span>
     <span class="k">if</span> <span class="nb">isinstance</span><span class="p">(</span><span class="n">param_ranges_copy</span><span class="p">,</span> <span class="nb">dict</span><span class="p">):</span>
         <span class="k">for</span> <span class="n">key</span><span class="p">,</span> <span class="n">value</span> <span class="ow">in</span> <span class="n">param_ranges_copy</span><span class="o">.</span><span class="n">items</span><span class="p">():</span>
-            <span class="k">if</span> <span class="n">callable</span><span class="p">(</span><span class="n">value</span><span class="p">):</span>
+            <span class="k">if</span> <span class="nb">callable</span><span class="p">(</span><span class="n">value</span><span class="p">):</span>
                 <span class="n">param_ranges_copy</span><span class="p">[</span><span class="n">key</span><span class="p">]</span> <span class="o">=</span> <span class="n">value</span><span class="p">(</span><span class="n">param_ranges_copy</span><span class="p">)</span>
                 <span class="k">return</span> <span class="n">list_param_combinations</span><span class="p">(</span><span class="n">param_ranges_copy</span><span class="p">)</span>
     <span class="k">return</span> <span class="p">[</span><span class="n">param_ranges_copy</span><span class="p">]</span></div>
