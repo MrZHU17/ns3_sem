@@ -1,0 +1,125 @@
+0.279929 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 1 RNTI 1
+0.280929 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 3 RNTI 4
+0.284929 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 2 RNTI 11
+0.285929 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 5 RNTI 13
+0.286929 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 7 RNTI 12
+0.288929 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 6 RNTI 2
+0.290929 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 9 RNTI 17
+0.291929 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 10 RNTI 18
+0.294929 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 4 RNTI 14
+Radio_link_failure_detected:  IMSI 1, RNTI 1, Cell id 1, 38.4672
+IMSI : 1 at 361.606,-31.9539
+38.6799 /NodeList/1/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 3: successful connection of UE with IMSI 1 RNTI 1
+Radio_link_failure_detected:  IMSI 4, RNTI 14, Cell id 1, 46.0752
+IMSI : 4 at -364.202,42.1531
+46.2799 /NodeList/0/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 2: successful connection of UE with IMSI 4 RNTI 1
+Handover_start: Small to Macro /NodeList/1/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 1: connected to cellId 3 with RNTI 1, handover to cellId 1
+IMSI : 1 at 391.455,144.799
+Handover_Failure_JoiningTimeout:  IMSI 1, RNTI 20, targetCellId 1, 62.5679
+IMSI : 1 at 391.704,146.278
+62.6869 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 1 RNTI 21
+Radio_link_failure_detected:  IMSI 3, RNTI 4, Cell id 1, 63.3582
+IMSI : 3 at 368.66,-349.512
+63.4799 /NodeList/5/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 7: successful connection of UE with IMSI 3 RNTI 1
+Handover_start: Small to Macro /NodeList/0/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 4: connected to cellId 2 with RNTI 1, handover to cellId 1
+IMSI : 4 at -366.311,134.215
+Handover_Failure_JoiningTimeout:  IMSI 4, RNTI 22, targetCellId 1, 89.3709
+IMSI : 4 at -365.861,135.646
+Handover_start: Small to Macro /NodeList/5/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 3: connected to cellId 7 with RNTI 1, handover to cellId 1
+IMSI : 3 at 245.036,-367.573
+Handover_Failure_JoiningTimeout:  IMSI 3, RNTI 24, targetCellId 1, 106.771
+IMSI : 3 at 243.651,-366.997
+Radio_link_failure_detected:  IMSI 4, RNTI 23, Cell id 1, 118.967
+IMSI : 4 at -299.275,347.395
+119.08 /NodeList/2/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 4: successful connection of UE with IMSI 4 RNTI 1
+Handover_start: Small to Macro /NodeList/2/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 4: connected to cellId 4 with RNTI 1, handover to cellId 1
+IMSI : 4 at -213.041,290.34
+Handover_Failure_JoiningTimeout:  IMSI 4, RNTI 26, targetCellId 1, 144.769
+IMSI : 4 at -212.268,289.055
+Radio_link_failure_detected:  IMSI 10, RNTI 18, Cell id 1, 157.449
+IMSI : 10 at -362.6,-46.1802
+157.64 /NodeList/0/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 2: successful connection of UE with IMSI 10 RNTI 2
+Radio_link_failure_detected:  IMSI 6, RNTI 2, Cell id 1, 163.929
+IMSI : 6 at -354.614,-26.8013
+164.04 /NodeList/0/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 2: successful connection of UE with IMSI 6 RNTI 3
+Handover_start: Small to Macro /NodeList/0/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 6: connected to cellId 2 with RNTI 3, handover to cellId 1
+IMSI : 6 at -339.476,113.563
+Handover_Failure_JoiningTimeout:  IMSI 6, RNTI 28, targetCellId 1, 185.366
+IMSI : 6 at -339.022,114.993
+Handover_start: Small to Macro /NodeList/0/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 10: connected to cellId 2 with RNTI 2, handover to cellId 1
+IMSI : 10 at -297.344,-45.897
+Handover_Failure_JoiningTimeout:  IMSI 10, RNTI 30, targetCellId 1, 185.966
+IMSI : 10 at -295.845,-45.8353
+Radio_link_failure_detected:  IMSI 6, RNTI 29, Cell id 1, 217.227
+IMSI : 6 at -266.828,342.786
+217.48 /NodeList/2/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 4: successful connection of UE with IMSI 6 RNTI 2
+Handover_start: Small to Macro /NodeList/2/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 6: connected to cellId 4 with RNTI 2, handover to cellId 1
+IMSI : 6 at -299.526,271.459
+Handover_Failure_JoiningTimeout:  IMSI 6, RNTI 32, targetCellId 1, 241.166
+IMSI : 6 at -300.085,270.067
+241.247 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 6 RNTI 33
+Radio_link_failure_detected:  IMSI 5, RNTI 13, Cell id 1, 255.823
+IMSI : 5 at -284.592,-336.619
+256.04 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 6: successful connection of UE with IMSI 5 RNTI 1
+Handover_start: Small to Macro /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 5: connected to cellId 6 with RNTI 1, handover to cellId 1
+IMSI : 5 at -207.937,-315.931
+Handover_Failure_JoiningTimeout:  IMSI 5, RNTI 34, targetCellId 1, 285.166
+IMSI : 5 at -206.466,-315.634
+285.24 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 5 RNTI 35
+Radio_link_failure_detected:  IMSI 1, RNTI 21, Cell id 1, 285.627
+IMSI : 1 at -209.67,368.718
+285.88 /NodeList/2/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 4: successful connection of UE with IMSI 1 RNTI 3
+Handover_start: Small to Macro /NodeList/2/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 1: connected to cellId 4 with RNTI 3, handover to cellId 1
+IMSI : 1 at -175.862,314.233
+Handover_Failure_JoiningTimeout:  IMSI 1, RNTI 36, targetCellId 1, 294.768
+IMSI : 1 at -175.039,312.979
+294.84 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 1 RNTI 37
+Radio_link_failure_detected:  IMSI 2, RNTI 11, Cell id 1, 346.602
+IMSI : 2 at -262.864,343.248
+346.84 /NodeList/2/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 4: successful connection of UE with IMSI 2 RNTI 4
+Radio_link_failure_detected:  IMSI 7, RNTI 12, Cell id 1, 360.154
+IMSI : 7 at 396.187,59.4137
+360.28 /NodeList/1/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 3: successful connection of UE with IMSI 7 RNTI 2
+Handover_start: Small to Macro /NodeList/2/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 2: connected to cellId 4 with RNTI 4, handover to cellId 1
+IMSI : 2 at -264.604,273.587
+Handover_Failure_JoiningTimeout:  IMSI 2, RNTI 38, targetCellId 1, 369.168
+IMSI : 2 at -264.294,272.119
+369.241 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 2 RNTI 39
+Handover_start: Small to Macro /NodeList/1/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 7: connected to cellId 3 with RNTI 2, handover to cellId 1
+IMSI : 7 at 434.084,-159.409
+Handover_Failure_JoiningTimeout:  IMSI 7, RNTI 40, targetCellId 1, 389.965
+IMSI : 7 at 434.34,-160.887
+390.054 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 7 RNTI 41
+Radio_link_failure_detected:  IMSI 1, RNTI 37, Cell id 1, 410.257
+IMSI : 1 at 308.998,-401.001
+410.44 /NodeList/5/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 7: successful connection of UE with IMSI 1 RNTI 2
+Radio_link_failure_detected:  IMSI 8, RNTI 19, Cell id 1, 413.634
+IMSI : 8 at -212.958,370.274
+413.88 /NodeList/2/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 4: successful connection of UE with IMSI 8 RNTI 5
+Handover_start: Small to Macro /NodeList/5/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 1: connected to cellId 7 with RNTI 2, handover to cellId 1
+IMSI : 1 at 237.477,-380.76
+Handover_Failure_JoiningTimeout:  IMSI 1, RNTI 42, targetCellId 1, 420.368
+IMSI : 1 at 236.034,-380.351
+420.454 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 1 RNTI 43
+Radio_link_failure_detected:  IMSI 4, RNTI 27, Cell id 1, 423.577
+IMSI : 4 at -346.046,-334.93
+423.64 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 6: successful connection of UE with IMSI 4 RNTI 2
+Handover_start: Small to Macro /NodeList/2/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 8: connected to cellId 4 with RNTI 5, handover to cellId 1
+IMSI : 8 at -221.625,286.187
+Handover_Failure_JoiningTimeout:  IMSI 8, RNTI 44, targetCellId 1, 442.369
+IMSI : 8 at -221.267,284.73
+Handover_start: Small to Macro /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 4: connected to cellId 6 with RNTI 2, handover to cellId 1
+IMSI : 4 at -241.513,-290.354
+Handover_Failure_JoiningTimeout:  IMSI 4, RNTI 46, targetCellId 1, 462.366
+IMSI : 4 at -240.228,-289.58
+Radio_link_failure_detected:  IMSI 3, RNTI 25, Cell id 1, 466.004
+IMSI : 3 at -276.448,-348.203
+466.28 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 6: successful connection of UE with IMSI 3 RNTI 3
+Handover_start: Small to Macro /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 3: connected to cellId 6 with RNTI 3, handover to cellId 1
+IMSI : 3 at -182.792,-343.167
+Handover_Failure_JoiningTimeout:  IMSI 3, RNTI 48, targetCellId 1, 482.368
+IMSI : 3 at -181.31,-342.936
+482.447 /NodeList/6/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 3 RNTI 49
+Radio_link_failure_detected:  IMSI 10, RNTI 31, Cell id 1, 493.747
+IMSI : 10 at 318.26,-391.731
+493.88 /NodeList/5/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 7: successful connection of UE with IMSI 10 RNTI 3

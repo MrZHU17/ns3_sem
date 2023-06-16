@@ -1,0 +1,590 @@
+In here, IMSI:1 lteUeRrc DoNotifyRandomAccessSuccessful!!!0.260214s
+In here, IMSI:5 lteUeRrc DoNotifyRandomAccessSuccessful!!!0.260214s
+In here, IMSI:6 lteUeRrc DoNotifyRandomAccessSuccessful!!!0.260214s
+In here, IMSI:7 lteUeRrc DoNotifyRandomAccessSuccessful!!!0.260214s
+In here, IMSI:2 lteUeRrc DoNotifyRandomAccessSuccessful!!!0.260214s
+In here, IMSI:10 lteUeRrc DoNotifyRandomAccessSuccessful!!!0.260214s
+In here, IMSI:3 lteUeRrc DoNotifyRandomAccessSuccessful!!!0.265214s
+In here, IMSI:4 lteUeRrc DoNotifyRandomAccessSuccessful!!!0.265214s
+In here, IMSI:8 lteUeRrc DoNotifyRandomAccessSuccessful!!!0.265214s
+In here, IMSI:9 lteUeRrc DoNotifyRandomAccessSuccessful!!!0.265214s
+0.279929 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 5 RNTI 1
+0.279929 /NodeList/1/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 3: successful connection of UE with IMSI 2 RNTI 1
+0.279929 /NodeList/3/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 5: successful connection of UE with IMSI 10 RNTI 1
+In here, Enb send to RNTI:1 DoSendRrcConnectionReconfiguration!!! 0.279929s
+In here, Enb send to RNTI:1 DoSendRrcConnectionReconfiguration!!! 0.27993s
+In here, Enb send to RNTI:1 DoSendRrcConnectionReconfiguration!!! 0.27993s
+0.280929 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 7 RNTI 2
+In here, Enb send to RNTI:2 DoSendRrcConnectionReconfiguration!!! 0.280929s
+0.281929 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 1 RNTI 3
+In here, Enb send to RNTI:3 DoSendRrcConnectionReconfiguration!!! 0.281929s
+0.282929 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 6 RNTI 4
+In here, Enb send to RNTI:4 DoSendRrcConnectionReconfiguration!!! 0.282929s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???0.284s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 0.284s
+In Here???0.284s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 0.284s
+0.284929 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 9 RNTI 9
+In here, Enb send to RNTI:9 DoSendRrcConnectionReconfiguration!!! 0.284929s
+0.285929 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 8 RNTI 10
+In here, Enb send to RNTI:10 DoSendRrcConnectionReconfiguration!!! 0.285929s
+0.286929 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 4 RNTI 12
+In here, Enb send to RNTI:12 DoSendRrcConnectionReconfiguration!!! 0.286929s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???0.287s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 0.287s
+0.287929 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB cellId 1: successful connection of UE with IMSI 3 RNTI 11
+In here, Enb send to RNTI:11 DoSendRrcConnectionReconfiguration!!! 0.287929s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???0.292s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 0.292s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???0.293s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 0.293s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???0.294s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 0.294s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???0.295s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 0.295s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???0.296s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 0.296s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???0.297s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 0.297s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???0.298s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 0.298s
+Send X2 message: HANDOVER REQUEST, 4.05293s
+Recv X2 message: HANDOVER REQUEST, 4.05293s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 4.05293s
+Recv X2 message: HANDOVER REQUEST ACK, 4.05293s
+In here, Enb send to RNTI:1 DoSendRrcConnectionReconfiguration!!! 4.05293s
+IMSI: 10, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/3/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 10: connected to cellId 5 with RNTI 1, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 4.05293s
+Recv X2 message: SN STATUS TRANSFER, 4.05293s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???4.058s
+Here, RNTI:1 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 4.058s
+In here, IMSI:10 lteUeRrc DoNotifyRandomAccessSuccessful!!!4.06121s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 4.06121s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 4.09993s
+In here, Enb send to RNTI:13 DoSendRrcConnectionReconfiguration!!! 4.09993s
+4.09993 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 10 RNTI 13
+Recv X2 message: UE CONTEXT RELEASE, 4.09993s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???4.104s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 4.104s
+Send X2 message: HANDOVER REQUEST, 18.6529s
+Recv X2 message: HANDOVER REQUEST, 18.6529s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 18.6529s
+Recv X2 message: HANDOVER REQUEST ACK, 18.6529s
+In here, Enb send to RNTI:1 DoSendRrcConnectionReconfiguration!!! 18.6529s
+IMSI: 2, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/1/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 2: connected to cellId 3 with RNTI 1, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 18.6529s
+Recv X2 message: SN STATUS TRANSFER, 18.6529s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???18.658s
+Here, RNTI:1 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 18.658s
+In here, IMSI:2 lteUeRrc DoNotifyRandomAccessSuccessful!!!18.6612s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 18.6612s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 18.7409s
+In here, Enb send to RNTI:14 DoSendRrcConnectionReconfiguration!!! 18.7409s
+18.7409 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 2 RNTI 14
+Recv X2 message: UE CONTEXT RELEASE, 18.7409s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???18.745s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 18.745s
+Send X2 message: HANDOVER REQUEST, 335.846s
+Recv X2 message: HANDOVER REQUEST, 335.846s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 335.846s
+Recv X2 message: HANDOVER REQUEST ACK, 335.846s
+In here, Enb send to RNTI:10 DoSendRrcConnectionReconfiguration!!! 335.846s
+IMSI: 8, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Macro to Small /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 8: connected to cellId 1 with RNTI 10, handover to cellId 5
+Send X2 message: SN STATUS TRANSFER, 335.846s
+Recv X2 message: SN STATUS TRANSFER, 335.846s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???335.88s
+Here, RNTI:10 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 335.88s
+In here, IMSI:8 lteUeRrc DoNotifyRandomAccessSuccessful!!!335.883s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 335.883s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 335.893s
+In here, Enb send to RNTI:2 DoSendRrcConnectionReconfiguration!!! 335.893s
+335.893 /NodeList/3/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 5: completed handover of UE with IMSI 8 RNTI 2
+Recv X2 message: UE CONTEXT RELEASE, 335.893s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???335.897s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 335.897s
+Send X2 message: HANDOVER REQUEST, 357.045s
+Recv X2 message: HANDOVER REQUEST, 357.045s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 357.045s
+Recv X2 message: HANDOVER REQUEST ACK, 357.045s
+In here, Enb send to RNTI:12 DoSendRrcConnectionReconfiguration!!! 357.045s
+IMSI: 4, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Macro to Small /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 4: connected to cellId 1 with RNTI 12, handover to cellId 4
+Send X2 message: SN STATUS TRANSFER, 357.045s
+Recv X2 message: SN STATUS TRANSFER, 357.045s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???357.074s
+Here, RNTI:12 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 357.074s
+In here, IMSI:4 lteUeRrc DoNotifyRandomAccessSuccessful!!!357.077s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 357.077s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 357.087s
+In here, Enb send to RNTI:1 DoSendRrcConnectionReconfiguration!!! 357.087s
+357.087 /NodeList/2/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 4: completed handover of UE with IMSI 4 RNTI 1
+Recv X2 message: UE CONTEXT RELEASE, 357.087s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???357.091s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 357.091s
+Send X2 message: HANDOVER REQUEST, 377.256s
+Recv X2 message: HANDOVER REQUEST, 377.256s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 377.256s
+Recv X2 message: HANDOVER REQUEST ACK, 377.256s
+In here, Enb send to RNTI:2 DoSendRrcConnectionReconfiguration!!! 377.256s
+IMSI: 8, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/3/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 8: connected to cellId 5 with RNTI 2, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 377.256s
+Recv X2 message: SN STATUS TRANSFER, 377.256s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???377.261s
+Here, RNTI:2 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 377.261s
+In here, IMSI:8 lteUeRrc DoNotifyRandomAccessSuccessful!!!377.264s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 377.264s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 377.302s
+In here, Enb send to RNTI:15 DoSendRrcConnectionReconfiguration!!! 377.302s
+377.302 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 8 RNTI 15
+Recv X2 message: UE CONTEXT RELEASE, 377.302s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???377.306s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 377.306s
+Send X2 message: HANDOVER REQUEST, 377.845s
+Recv X2 message: HANDOVER REQUEST, 377.845s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 377.845s
+Recv X2 message: HANDOVER REQUEST ACK, 377.845s
+In here, Enb send to RNTI:1 DoSendRrcConnectionReconfiguration!!! 377.845s
+IMSI: 4, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/2/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 4: connected to cellId 4 with RNTI 1, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 377.845s
+Recv X2 message: SN STATUS TRANSFER, 377.845s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???377.85s
+Here, RNTI:1 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 377.85s
+In here, IMSI:4 lteUeRrc DoNotifyRandomAccessSuccessful!!!377.853s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 377.853s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 377.863s
+In here, Enb send to RNTI:16 DoSendRrcConnectionReconfiguration!!! 377.863s
+377.863 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 4 RNTI 16
+Recv X2 message: UE CONTEXT RELEASE, 377.863s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???377.867s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 377.867s
+Send X2 message: HANDOVER REQUEST, 428.045s
+Recv X2 message: HANDOVER REQUEST, 428.045s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 428.045s
+Recv X2 message: HANDOVER REQUEST ACK, 428.045s
+In here, Enb send to RNTI:11 DoSendRrcConnectionReconfiguration!!! 428.045s
+IMSI: 3, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Macro to Small /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 3: connected to cellId 1 with RNTI 11, handover to cellId 2
+Send X2 message: SN STATUS TRANSFER, 428.045s
+Recv X2 message: SN STATUS TRANSFER, 428.045s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???428.082s
+Here, RNTI:11 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 428.082s
+In here, IMSI:3 lteUeRrc DoNotifyRandomAccessSuccessful!!!428.085s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 428.085s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 428.095s
+In here, Enb send to RNTI:1 DoSendRrcConnectionReconfiguration!!! 428.095s
+428.095 /NodeList/0/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 2: completed handover of UE with IMSI 3 RNTI 1
+Recv X2 message: UE CONTEXT RELEASE, 428.095s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???428.099s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 428.099s
+Send X2 message: HANDOVER REQUEST, 450.045s
+Recv X2 message: HANDOVER REQUEST, 450.045s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 450.045s
+Recv X2 message: HANDOVER REQUEST ACK, 450.045s
+In here, Enb send to RNTI:13 DoSendRrcConnectionReconfiguration!!! 450.045s
+IMSI: 10, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Macro to Small /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 10: connected to cellId 1 with RNTI 13, handover to cellId 3
+Send X2 message: SN STATUS TRANSFER, 450.045s
+Recv X2 message: SN STATUS TRANSFER, 450.045s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???450.08s
+Here, RNTI:13 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 450.08s
+In here, IMSI:10 lteUeRrc DoNotifyRandomAccessSuccessful!!!450.083s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 450.083s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 450.1s
+In here, Enb send to RNTI:2 DoSendRrcConnectionReconfiguration!!! 450.1s
+450.1 /NodeList/1/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 3: completed handover of UE with IMSI 10 RNTI 2
+Recv X2 message: UE CONTEXT RELEASE, 450.1s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???450.104s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 450.104s
+Send X2 message: HANDOVER REQUEST, 471.845s
+Recv X2 message: HANDOVER REQUEST, 471.845s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 471.845s
+Recv X2 message: HANDOVER REQUEST ACK, 471.845s
+In here, Enb send to RNTI:1 DoSendRrcConnectionReconfiguration!!! 471.845s
+IMSI: 3, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/0/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 3: connected to cellId 2 with RNTI 1, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 471.845s
+Recv X2 message: SN STATUS TRANSFER, 471.845s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???471.85s
+Here, RNTI:1 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 471.85s
+In here, IMSI:3 lteUeRrc DoNotifyRandomAccessSuccessful!!!471.853s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 471.853s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 471.864s
+In here, Enb send to RNTI:17 DoSendRrcConnectionReconfiguration!!! 471.864s
+471.864 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 3 RNTI 17
+Recv X2 message: UE CONTEXT RELEASE, 471.864s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???471.868s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 471.868s
+Send X2 message: HANDOVER REQUEST, 493.674s
+Recv X2 message: HANDOVER REQUEST, 493.674s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 493.674s
+Recv X2 message: HANDOVER REQUEST ACK, 493.674s
+In here, Enb send to RNTI:2 DoSendRrcConnectionReconfiguration!!! 493.674s
+IMSI: 10, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/1/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 10: connected to cellId 3 with RNTI 2, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 493.674s
+Recv X2 message: SN STATUS TRANSFER, 493.674s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???493.679s
+Here, RNTI:2 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 493.679s
+In here, IMSI:10 lteUeRrc DoNotifyRandomAccessSuccessful!!!493.682s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 493.682s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 493.706s
+In here, Enb send to RNTI:18 DoSendRrcConnectionReconfiguration!!! 493.706s
+493.706 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 10 RNTI 18
+Recv X2 message: UE CONTEXT RELEASE, 493.706s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???493.71s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 493.71s
+Send X2 message: HANDOVER REQUEST, 715.045s
+Recv X2 message: HANDOVER REQUEST, 715.045s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 715.045s
+Recv X2 message: HANDOVER REQUEST ACK, 715.045s
+In here, Enb send to RNTI:2 DoSendRrcConnectionReconfiguration!!! 715.045s
+IMSI: 7, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Macro to Small /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 7: connected to cellId 1 with RNTI 2, handover to cellId 2
+Send X2 message: SN STATUS TRANSFER, 715.045s
+Recv X2 message: SN STATUS TRANSFER, 715.045s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???715.072s
+Here, RNTI:2 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 715.072s
+In here, IMSI:7 lteUeRrc DoNotifyRandomAccessSuccessful!!!715.075s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 715.075s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 715.085s
+In here, Enb send to RNTI:2 DoSendRrcConnectionReconfiguration!!! 715.085s
+715.085 /NodeList/0/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 2: completed handover of UE with IMSI 7 RNTI 2
+Recv X2 message: UE CONTEXT RELEASE, 715.085s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???715.089s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 715.089s
+Send X2 message: HANDOVER REQUEST, 740.845s
+Recv X2 message: HANDOVER REQUEST, 740.845s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 740.845s
+Recv X2 message: HANDOVER REQUEST ACK, 740.845s
+In here, Enb send to RNTI:9 DoSendRrcConnectionReconfiguration!!! 740.845s
+IMSI: 9, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Macro to Small /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 9: connected to cellId 1 with RNTI 9, handover to cellId 3
+Send X2 message: SN STATUS TRANSFER, 740.845s
+Recv X2 message: SN STATUS TRANSFER, 740.845s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???740.875s
+Here, RNTI:9 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 740.875s
+In here, IMSI:9 lteUeRrc DoNotifyRandomAccessSuccessful!!!740.878s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 740.878s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 740.888s
+In here, Enb send to RNTI:3 DoSendRrcConnectionReconfiguration!!! 740.888s
+740.888 /NodeList/1/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 3: completed handover of UE with IMSI 9 RNTI 3
+Recv X2 message: UE CONTEXT RELEASE, 740.888s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???740.892s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 740.892s
+Send X2 message: HANDOVER REQUEST, 756.052s
+Recv X2 message: HANDOVER REQUEST, 756.052s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 756.052s
+Recv X2 message: HANDOVER REQUEST ACK, 756.052s
+In here, Enb send to RNTI:3 DoSendRrcConnectionReconfiguration!!! 756.052s
+IMSI: 1, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Macro to Small /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 1: connected to cellId 1 with RNTI 3, handover to cellId 5
+Send X2 message: SN STATUS TRANSFER, 756.052s
+Recv X2 message: SN STATUS TRANSFER, 756.052s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???756.078s
+Here, RNTI:3 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 756.078s
+In here, IMSI:1 lteUeRrc DoNotifyRandomAccessSuccessful!!!756.081s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 756.081s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 756.091s
+In here, Enb send to RNTI:3 DoSendRrcConnectionReconfiguration!!! 756.091s
+756.091 /NodeList/3/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 5: completed handover of UE with IMSI 1 RNTI 3
+Recv X2 message: UE CONTEXT RELEASE, 756.091s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???756.095s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 756.095s
+Send X2 message: HANDOVER REQUEST, 757.855s
+Recv X2 message: HANDOVER REQUEST, 757.855s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 757.855s
+Recv X2 message: HANDOVER REQUEST ACK, 757.855s
+In here, Enb send to RNTI:2 DoSendRrcConnectionReconfiguration!!! 757.855s
+IMSI: 7, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/0/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 7: connected to cellId 2 with RNTI 2, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 757.855s
+Recv X2 message: SN STATUS TRANSFER, 757.855s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???757.86s
+Here, RNTI:2 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 757.86s
+In here, IMSI:7 lteUeRrc DoNotifyRandomAccessSuccessful!!!757.863s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 757.863s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 757.953s
+In here, Enb send to RNTI:19 DoSendRrcConnectionReconfiguration!!! 757.953s
+757.953 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 7 RNTI 19
+Recv X2 message: UE CONTEXT RELEASE, 757.953s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???757.957s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 757.957s
+Send X2 message: HANDOVER REQUEST, 758.645s
+Recv X2 message: HANDOVER REQUEST, 758.645s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 758.645s
+Recv X2 message: HANDOVER REQUEST ACK, 758.645s
+In here, Enb send to RNTI:3 DoSendRrcConnectionReconfiguration!!! 758.645s
+IMSI: 9, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/1/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 9: connected to cellId 3 with RNTI 3, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 758.645s
+Recv X2 message: SN STATUS TRANSFER, 758.645s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???758.65s
+Here, RNTI:3 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 758.65s
+In here, IMSI:9 lteUeRrc DoNotifyRandomAccessSuccessful!!!758.653s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 758.653s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 758.667s
+In here, Enb send to RNTI:20 DoSendRrcConnectionReconfiguration!!! 758.667s
+758.667 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 9 RNTI 20
+Recv X2 message: UE CONTEXT RELEASE, 758.667s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???758.671s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 758.671s
+Send X2 message: HANDOVER REQUEST, 774.252s
+Recv X2 message: HANDOVER REQUEST, 774.252s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 774.252s
+Recv X2 message: HANDOVER REQUEST ACK, 774.252s
+In here, Enb send to RNTI:3 DoSendRrcConnectionReconfiguration!!! 774.252s
+IMSI: 1, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/3/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 1: connected to cellId 5 with RNTI 3, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 774.252s
+Recv X2 message: SN STATUS TRANSFER, 774.252s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???774.257s
+Here, RNTI:3 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 774.257s
+In here, IMSI:1 lteUeRrc DoNotifyRandomAccessSuccessful!!!774.26s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 774.26s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 774.27s
+In here, Enb send to RNTI:21 DoSendRrcConnectionReconfiguration!!! 774.27s
+774.27 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 1 RNTI 21
+Recv X2 message: UE CONTEXT RELEASE, 774.27s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???774.274s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 774.274s
+Send X2 message: HANDOVER REQUEST, 914.845s
+Recv X2 message: HANDOVER REQUEST, 914.845s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 914.845s
+Recv X2 message: HANDOVER REQUEST ACK, 914.845s
+In here, Enb send to RNTI:18 DoSendRrcConnectionReconfiguration!!! 914.845s
+IMSI: 10, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Macro to Small /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 10: connected to cellId 1 with RNTI 18, handover to cellId 5
+Send X2 message: SN STATUS TRANSFER, 914.845s
+Recv X2 message: SN STATUS TRANSFER, 914.845s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???914.878s
+Here, RNTI:18 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 914.878s
+In here, IMSI:10 lteUeRrc DoNotifyRandomAccessSuccessful!!!914.881s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 914.881s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 914.891s
+In here, Enb send to RNTI:4 DoSendRrcConnectionReconfiguration!!! 914.891s
+914.891 /NodeList/3/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 5: completed handover of UE with IMSI 10 RNTI 4
+Recv X2 message: UE CONTEXT RELEASE, 914.891s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???914.895s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 914.895s
+Send X2 message: HANDOVER REQUEST, 926.045s
+Recv X2 message: HANDOVER REQUEST, 926.045s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 926.045s
+Recv X2 message: HANDOVER REQUEST ACK, 926.045s
+In here, Enb send to RNTI:21 DoSendRrcConnectionReconfiguration!!! 926.045s
+IMSI: 1, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Macro to Small /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 1: connected to cellId 1 with RNTI 21, handover to cellId 4
+Send X2 message: SN STATUS TRANSFER, 926.045s
+Recv X2 message: SN STATUS TRANSFER, 926.045s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???926.078s
+Here, RNTI:21 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 926.078s
+In here, IMSI:1 lteUeRrc DoNotifyRandomAccessSuccessful!!!926.081s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 926.081s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 926.098s
+In here, Enb send to RNTI:2 DoSendRrcConnectionReconfiguration!!! 926.098s
+926.098 /NodeList/2/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 4: completed handover of UE with IMSI 1 RNTI 2
+Recv X2 message: UE CONTEXT RELEASE, 926.098s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???926.102s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 926.102s
+Send X2 message: HANDOVER REQUEST, 951.854s
+Recv X2 message: HANDOVER REQUEST, 951.854s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 951.854s
+Recv X2 message: HANDOVER REQUEST ACK, 951.854s
+In here, Enb send to RNTI:4 DoSendRrcConnectionReconfiguration!!! 951.854s
+IMSI: 10, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/3/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 10: connected to cellId 5 with RNTI 4, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 951.854s
+Recv X2 message: SN STATUS TRANSFER, 951.854s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???951.859s
+Here, RNTI:4 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 951.859s
+In here, IMSI:10 lteUeRrc DoNotifyRandomAccessSuccessful!!!951.862s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 951.862s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 951.942s
+In here, Enb send to RNTI:22 DoSendRrcConnectionReconfiguration!!! 951.942s
+951.942 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 10 RNTI 22
+Recv X2 message: UE CONTEXT RELEASE, 951.942s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???951.946s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 951.946s
+Send X2 message: HANDOVER REQUEST, 954.045s
+Recv X2 message: HANDOVER REQUEST, 954.045s
+handoverJoiningTimeout time start at here!!!
+Send X2 message: HANDOVER REQUEST ACK, 954.045s
+Recv X2 message: HANDOVER REQUEST ACK, 954.045s
+In here, Enb send to RNTI:2 DoSendRrcConnectionReconfiguration!!! 954.045s
+IMSI: 1, SendRrcConnectionReconfiguration and HandoverLeavingTimeout timer start!!!
+Handover_start: Small to Macro /NodeList/2/DeviceList/0/LteEnbRrc/HandoverStart UE IMSI: 1: connected to cellId 4 with RNTI 2, handover to cellId 1
+Send X2 message: SN STATUS TRANSFER, 954.045s
+Recv X2 message: SN STATUS TRANSFER, 954.045s
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???954.05s
+Here, RNTI:2 DoRecvRrcConnectionReconfiguration,haveMobilityControlInfo == true!!! 954.05s
+In here, IMSI:1 lteUeRrc DoNotifyRandomAccessSuccessful!!!954.053s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 954.053s
+HandoverJoiningTimeout timer canceled !!! Ue RecvRrcConnectionReconfigurationCompleted
+Send X2 message: UE CONTEXT RELEASE, 954.109s
+In here, Enb send to RNTI:23 DoSendRrcConnectionReconfiguration!!! 954.109s
+954.109 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverEndOk eNB cellId 1: completed handover of UE with IMSI 1 RNTI 23
+Recv X2 message: UE CONTEXT RELEASE, 954.109s
+HandoverLeavingTimeout timer canceled !!! UeManager RecvRrcConnectionReestablishmentRequest
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu but not case 4
+In here??? LteUeRrcProtocolReal::DoReceivePdcpSdu -> RecvRrcConnectionReconfiguration!!!
+In Here???954.113s
+UE DoSendRrcConnectionReconfigurationCompleted, LteUeRrcProtocolReal!!! 954.113s
